@@ -2,9 +2,9 @@
 
 Repositorio para práctica de análisis exploratorio con R.
 
-<center>
+
 ![](imagen.png)
-</center>
+
 
 ## Variables a evaluar:
 
