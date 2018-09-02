@@ -1,2 +1,5 @@
-# Arriendos_Med
-Repositorio para práctica de análisis exploratorio con R
+# Precios de arriendo en Medellín
+
+Repositorio para práctica de análisis exploratorio con R.
+
+![](imagen.png)
